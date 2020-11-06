@@ -9,8 +9,9 @@ Install Dependencies :
 
        1. cd \tic-tac-toe-socket-io-cli\client
        2. npm install
-					  3. cd \tic-tac-toe-socket-io-cli\server
-					  4. npm install
+					  
+       3. cd \tic-tac-toe-socket-io-cli\server
+       4. npm install
 
 Run Server :
 Start New terminal
